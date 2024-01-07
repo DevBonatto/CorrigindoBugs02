@@ -21,12 +21,12 @@ Bugs solucionados por conta própria.
 
 Bugs:
 <p align="center">
-  <img alt="Desenho de uma pessoa vestindo uma camisa amarela em uma sala com móveis" src="images/bug.png" width="100%">
+  <img alt="Desenho de uma pessoa pulando corda" src="images/bug.png" width="100%">
 </p>
 
 Resolução dos bugs:
 <p align="center">
-  <img alt="Desenho de uma pessoa vestindo uma camisa amarela em uma sala com móveis" src="images/fixed.png" width="100%">
+  <img alt="Desenho de uma pessoa pulando corda" src="images/solved.png" width="100%">
 </p>
 
 ## 🔖 Layout
