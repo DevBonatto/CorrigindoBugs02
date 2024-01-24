@@ -19,6 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Bugs solucionados por conta própria.
 
+
 Bugs:
 <p align="center">
   <img alt="Desenho de uma pessoa pulando corda" src="images/bug.png" width="100%">
